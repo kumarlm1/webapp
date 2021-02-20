@@ -15,6 +15,6 @@ custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 github: [octocat, surftocat]
 patreon: octocat
 tidelift: npm/octo-package
-custom: ["https://www.paypal.me/octocat", octocat.com]
+custom: ["https://www.patreon.com/user?u=50997978", octocat.com]
 
 
